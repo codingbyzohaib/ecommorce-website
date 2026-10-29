@@ -99,7 +99,7 @@ function Home() {
 
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=1000&q=85"
+                src="https://i.pinimg.com/736x/66/93/4a/66934a6181988ecf829b88165c62b6d6.jpg"
                 alt="Premium Watch"
                 className="w-full h-[520px] object-cover rounded-3xl shadow-2xl"
               />

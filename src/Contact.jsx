@@ -84,41 +84,9 @@ function Contact() {
                   </div>
                 </div>
 
-                <div className="flex items-center gap-5 bg-gray-50 border border-gray-100 rounded-2xl p-5 hover:border-yellow-300 hover:shadow-sm transition">
-                  <div className="w-12 h-12 rounded-xl bg-yellow-100 flex items-center justify-center text-2xl shrink-0">
-                    📞
-                  </div>
+                
 
-                  <div>
-                    <h3 className="font-bold">Phone</h3>
-
-                    <a
-                      href="tel:03294201923"
-                      className="text-gray-500 text-sm mt-1 block hover:text-yellow-500 transition"
-                    >
-                      03294201923
-                    </a>
-                  </div>
-                </div>
-
-                <div className="flex items-center gap-5 bg-gray-50 border border-gray-100 rounded-2xl p-5 hover:border-yellow-300 hover:shadow-sm transition">
-                  <div className="w-12 h-12 rounded-xl bg-yellow-100 flex items-center justify-center text-2xl shrink-0">
-                    💬
-                  </div>
-
-                  <div>
-                    <h3 className="font-bold">WhatsApp</h3>
-
-                    <a
-                      href="https://wa.me/923175704019"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-gray-500 text-sm mt-1 block hover:text-yellow-500 transition"
-                    >
-                      03175704019
-                    </a>
-                  </div>
-                </div>
+               
 
                 <div className="flex items-center gap-5 bg-gray-50 border border-gray-100 rounded-2xl p-5 hover:border-yellow-300 hover:shadow-sm transition">
                   <div className="w-12 h-12 rounded-xl bg-yellow-100 flex items-center justify-center text-2xl shrink-0">
